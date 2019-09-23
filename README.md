@@ -9,7 +9,7 @@
 In `konami_code.js`, you'll notice that we've provided very little: well, just about nothing except -- what's that? If you open the file up in your text editor, you should see:
 ```js
 const code = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]
-
+//ll
 function init() {
   // your code here
 }
